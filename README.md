@@ -11,3 +11,5 @@ Josphat Chege
 
 ## 📁 Project Contents
 - `index.html` – Main web page with semantic elements and accessibility features.
+## 🌐 Live Demo  
+[Click here to view the live page](https://dvchege.github.io/html5-accesibility-seo/)
