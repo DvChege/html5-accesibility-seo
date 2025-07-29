@@ -10,5 +10,4 @@ This work is a simple HTML5 web page designed as part of an assignment to demons
 Josphat Chege
 
 ## 📁 Project Contents
-- `index.html` – main web page with semantic elements and accessibility features.
-
+- `index.html` – Main web page with semantic elements and accessibility features.
